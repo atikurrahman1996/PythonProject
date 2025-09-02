@@ -19,12 +19,10 @@ x.printname()
 class Student(Person):
   pass
 
-x = Student("Mike", "Olsen")
+x = Student("Jami", "Hossain")
 x.printname()
 
 '''
-
-
 
 #parent class
 
