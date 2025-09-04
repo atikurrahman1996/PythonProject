@@ -1,0 +1,2 @@
+#Some of the most commonly used Python built-in functions are the following:
+# print(), len(), type(), int(), float(), str(), input(), list(), dict(), min(), max(), sum(), sorted(), open(), file(), help(), and dir()

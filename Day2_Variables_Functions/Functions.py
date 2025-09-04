@@ -3,10 +3,15 @@ def my_function():
 
 my_function()
 
+
+def fun():
+  print("Welcome to GFG")
+fun()
+
 #Arguments
 
 def my_function(fname):
-  print(fname + "Ariyan")
+  print(fname +" " "Ariyan")
 
 my_function("AR")
 my_function("Atik")
