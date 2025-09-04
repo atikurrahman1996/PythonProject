@@ -22,3 +22,10 @@ print(x)
 import math
 x = math.sqrt(64)
 print(x)
+
+
+#The math.pi constant, returns the value of PI (3.14...):
+
+import math
+x = math.pi
+print(x)
