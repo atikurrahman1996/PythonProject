@@ -1,5 +1,22 @@
 # Introduction
-# Day 1 - 30DaysOfPython Challenge
+print("hello world, this is my first program")
+
+#DataType
+'''
+str: "hello world"
+int: 10
+float: x =20.5
+complex: x = 1j
+list : x = ["apple", "banana", "cherry"]
+tuple :x = ("apple", "banana", "cherry")
+range :
+dict : x = {"name" : "John", "age" : 36}
+set :x = {"apple", "banana", "cherry"}
+frozenset :x = frozenset({"apple", "banana", "cherry"})
+bool: True/false
+bytes, bytearray, memoryview
+
+'''
 
 print(3 + 2)   # addition(+)
 print(3 - 2)   # subtraction(-)
