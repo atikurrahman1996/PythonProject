@@ -27,7 +27,6 @@ my_function(child1 = "Emil", child2 = "Tobias", child3 = "Linus")
 def my_function(country = "Bangladesh"):
   print("I am from " + country)
 
-my_function("Sweden")
 my_function("BD")
 my_function()
 my_function("UK")
