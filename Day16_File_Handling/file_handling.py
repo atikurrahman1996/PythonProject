@@ -63,7 +63,7 @@ with open('../Day16_File_Handling/writing_file_example.txt','w') as f:
 #If the file does not exist, the remove method will raise an error, so it is good to use a condition like this:
 
 import os
-if os.path.exists('./files/example.txt'):
-    os.remove('./files/example.txt')
+if os.path.exists('../Day16_File_Handling/writing_file_example.txt'):
+    os.remove('../Day16_File_Handling/writing_file_example.txt')
 else:
     print('The file does not exist')
