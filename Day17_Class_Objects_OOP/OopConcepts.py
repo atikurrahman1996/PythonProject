@@ -5,6 +5,7 @@ class MyClass:
 p1 = MyClass()
 print(p1.x)
 
+#Class Constructor
 #The __init__() Method
 class Person:
   def __init__(self, name, age):
@@ -40,7 +41,7 @@ class Person:
   def myfunc(self):
     print("Hello my name is " + self.name)
 
-p1 = Person("John", 36)
+p1 = Person("ATIK", 36)
 p1.myfunc()
 
 
