@@ -1,7 +1,3 @@
-#GET        Used for object retrieval
-#POST       Used for object creation and object actions
-#PUT        Used for object update
-#DELETE     Used for object deletion
 import os
 
 # let's import the flask
